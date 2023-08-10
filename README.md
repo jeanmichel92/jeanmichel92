@@ -5,8 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eujeanmichel/)
 [![PowerBI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]([https://www.linkedin.com/in/progjean](https://sites.google.com/view/jeanmichel92))
 
-![Jean Michel GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanmichel92&show_icons=true&theme=dracula)
-
 
 ## Tecnologias que eu uso no meu dia:
 
